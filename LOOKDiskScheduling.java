@@ -66,3 +66,10 @@ public class LOOKDiskScheduling {
         return totalSeekTime;
     }
 } 
+
+// # Display currently logged-in users
+// echo "Currently logged-in users:"
+// who
+
+// # Display your login name
+// echo "Your login name is: $(logname)"
